@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/rename-columns">3068. Rename Columns</a></h2><h3>Easy</h3><hr><pre>
+<h2><a href="https://leetcode.com/problems/rename-columns">2885. Rename Columns</a></h2><h3>Easy</h3><hr><pre>
 DataFrame <code>students</code>
 +-------------+--------+
 | Column Name | Type   |
