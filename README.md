@@ -12,5 +12,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AmeenAMNhub/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [1251-average-selling-price](https://github.com/AmeenAMNhub/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/AmeenAMNhub/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/AmeenAMNhub/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/AmeenAMNhub/LeetCode/tree/main/1934-confirmation-rate/) | Medium |
 <!---LeetCode Topics End-->
