@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/AmeenAMNhub/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AmeenAMNhub/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/AmeenAMNhub/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
+| [0595-big-countries](https://github.com/AmeenAMNhub/LeetCode/tree/main/0595-big-countries/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/AmeenAMNhub/LeetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/AmeenAMNhub/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/AmeenAMNhub/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
