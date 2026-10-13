@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/AmeenAMNhub/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/AmeenAMNhub/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0183-customers-who-never-order](https://github.com/AmeenAMNhub/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/AmeenAMNhub/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
