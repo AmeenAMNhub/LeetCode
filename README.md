@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/AmeenAMNhub/LeetCode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/AmeenAMNhub/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/AmeenAMNhub/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/AmeenAMNhub/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/AmeenAMNhub/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/AmeenAMNhub/LeetCode/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/AmeenAMNhub/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
