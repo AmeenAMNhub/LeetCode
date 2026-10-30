@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/AmeenAMNhub/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/AmeenAMNhub/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1148-article-views-i](https://github.com/AmeenAMNhub/LeetCode/tree/main/1148-article-views-i/) | Easy |
+| [1174-immediate-food-delivery-ii](https://github.com/AmeenAMNhub/LeetCode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/AmeenAMNhub/LeetCode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/AmeenAMNhub/LeetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/AmeenAMNhub/LeetCode/tree/main/1251-average-selling-price/) | Easy |
