@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AmeenAMNhub/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/AmeenAMNhub/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/AmeenAMNhub/LeetCode/tree/main/0595-big-countries/) | Easy |
+| [0619-biggest-single-number](https://github.com/AmeenAMNhub/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/AmeenAMNhub/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/AmeenAMNhub/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1148-article-views-i](https://github.com/AmeenAMNhub/LeetCode/tree/main/1148-article-views-i/) | Easy |
