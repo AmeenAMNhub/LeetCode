@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/AmeenAMNhub/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0183-customers-who-never-order](https://github.com/AmeenAMNhub/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/AmeenAMNhub/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0197-rising-temperature](https://github.com/AmeenAMNhub/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AmeenAMNhub/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/AmeenAMNhub/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/AmeenAMNhub/LeetCode/tree/main/0595-big-countries/) | Easy |
