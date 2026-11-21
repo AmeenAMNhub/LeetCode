@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/drop-duplicate-rows">3071. Drop Duplicate Rows</a></h2><h3>Easy</h3><hr><pre>
+<h2><a href="https://leetcode.com/problems/drop-duplicate-rows">2882. Drop Duplicate Rows</a></h2><h3>Easy</h3><hr><pre>
 DataFrame customers
 +-------------+--------+
 | Column Name | Type   |
